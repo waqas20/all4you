@@ -291,7 +291,7 @@ select:visited {
 }
 
 .ft-section-title-2 h2 {
-  color: #003440;
+  color: #090909;
   font-size: 36px;
   font-weight: 700;
   padding-top: 15px;
@@ -3324,7 +3324,7 @@ select:visited {
 }
 
 .ft-about-feature-list-item .ft-about-feature-text h3 {
-  color: #00044b;
+  color: #090909;
   font-size: 20px;
   font-weight: 700;
   padding-bottom: 5px;
@@ -3386,7 +3386,7 @@ select:visited {
 }
 
 .ft-video-section {
-  padding-bottom: 105px;
+  padding-bottom: 185px;
 }
 
 @-webkit-keyframes border_animation {
@@ -7494,7 +7494,7 @@ select:visited {
 }
 
 .ft-contact-page-form-wrapper h3 {
-  color: #043641;
+  color: #090909;
   font-size: 36px;
   font-weight: 700;
   padding-bottom: 30px;
@@ -9025,7 +9025,7 @@ select:visited {
 }
 
 .ft-goodness-featured-innerbox .ft-goodness-featured-text h3 {
-  color: #002a34;
+  color: #090909;
   font-size: 24px;
   font-weight: 700;
   padding-bottom: 15px;
@@ -9646,7 +9646,7 @@ select:visited {
 }
 
 .ft-breadcrumb-section .background_overlay {
-  background-color: rgba(0, 62, 77, 0.7);
+  background-color: #000000c7;
 }
 
 .ft-breadcrumb-content h2 {
@@ -10005,7 +10005,7 @@ select:visited {
 }
 
 .ft-funfact-innerbox .ft-funfact-text h3 {
-  color: #052e56;
+  color: #090909;
   font-size: 45px;
   font-weight: 700;
 }
@@ -11188,7 +11188,7 @@ ul li {
   position: absolute;
   left: 0px;
   top: -1px;
-  color: #ffffff;
+  color: #ec0000;
   font-size: 18px;
   font-family: "flaticon";
 }

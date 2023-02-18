@@ -19179,3 +19179,15 @@ ul li {
   bottom: 18px;
   right: 18px;
 }
+
+
+.author-image {
+    background-color: #fe0000;
+    width: 100px;
+    height: 100px;
+    padding-top: 1px;
+    display: flex;
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center;
+}
